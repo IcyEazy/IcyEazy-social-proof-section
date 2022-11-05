@@ -106,7 +106,7 @@ img{
     margin-top: 100px;
 }
 
-@media (max-width: 560px) {
+@media (max-width: 375px) {
     body{
         background-image: url(./images/bg-pattern-top-mobile.svg);
         background-repeat: no-repeat;
